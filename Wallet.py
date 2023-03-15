@@ -17,4 +17,4 @@ print(Fore.CYAN+'  your code  =  ')
 print(Fore.LIGHTGREEN_EX+random_string_generator_variable_size(6, 24, chars))
 
 
-print(Fore.LIGHTCYAN_EX+'CR : amirhosin0098')
+print(Fore.LIGHTCYAN_EX+'CR : @amiirhsen0098')
